@@ -7,3 +7,45 @@ h1,h2{
     /* width: 50%; */
     padding: 10px;
   }
+  /* MEDIA QUERIES */
+@media screen and (max-width: 1285px) {
+    .stcr{
+        height: 35vh;
+        width: 70vw;
+    }
+      
+  }
+  
+  
+  @media screen and (max-width: 1500px) {
+   
+    .stcr{
+        height: 40vh;
+        width: 70vw;
+    }
+      
+   
+  }
+  @media screen and (max-width: 900px) {
+    .stcr{
+        height: 35vh;
+        width: 70vw;
+    }
+      
+  }
+  
+  @media screen and (max-width: 500px) {
+    .stcr{
+        height: 30vh;
+        width: 70vw;
+    }
+  
+  }
+  
+  @media screen and (max-width: 450px) {
+   .stcr{
+    height: 20vh;
+    width: 60vw;
+}
+  
+  }
